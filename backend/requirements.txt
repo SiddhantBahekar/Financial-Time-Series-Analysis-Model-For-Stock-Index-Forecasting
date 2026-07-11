@@ -1,0 +1,9 @@
+fastapi>=0.109,<0.115
+uvicorn[standard]>=0.27
+yfinance>=0.2.36
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+scikit-learn>=1.4
+tensorflow>=2.15
+python-multipart>=0.0.9
